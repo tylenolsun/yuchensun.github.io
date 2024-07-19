@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year undergraduate student at the [School of Cyber Science and Engineering](https://cse.whu.edu.cn/), Wuhan University, and I will graduate in the summer of 2025. My research interests include data privacy and the security of large language models.
 
-I am very fortunate to have been mentored by [Prof.Qian Wang](http://nisplab.whu.edu.cn/people.html) from the [NIS&P Lab](http://nisplab.whu.edu.cn/index.html) at Wuhan University. I am also honored to be working on my summer research project under the guidance of [Prof.Zhou Li](https://faculty.sites.uci.edu/zhouli/) from the [DSP Lab](https://faculty.sites.uci.edu/zhouli/research/) at the University of California, Irvine.
 
 A data-driven personal website
 ======
